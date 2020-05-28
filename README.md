@@ -2,7 +2,7 @@
 
 This workflow retrieve the top 10 articles from [dev.to](https://dev.to), was made as part of my [#100DaysOfCode](https://mijailr.com/days_of_code/) and also because I use [Alfred](https://www.alfredapp.com/) workflows lot to simplify tedious processes.
 
-![Alfred devto command](doc/images/screenshot.jpg)
+![Alfred devto command](docs/images/screenshot.jpg)
 
 ## TODO
 
