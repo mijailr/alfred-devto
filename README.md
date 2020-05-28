@@ -1,6 +1,6 @@
 # DEV.to for alfred
 
-This workflow retrieve the top 10 articles from [dev.to](https://dev.to), was made as part of my [#100DaysOfCode](https://mijailr.com/days_of_code/) and also because I use [Alfred](https://www.alfredapp.com/) workflows lot to simplify tedious processes.
+This workflow retrieve the top 10 articles from [dev.to](https://dev.to), was made as part of my [#100DaysOfCode](https://mijailr.com/days_of_code/), because I use [Alfred](https://www.alfredapp.com/) workflows a lot to simplify tedious processes and because I like to read articles from dev.to.
 
 ![Alfred devto command](docs/images/screenshot.jpg)
 
