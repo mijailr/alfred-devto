@@ -16,5 +16,5 @@ All the contributions are welcome, feel free to fork or create a pull request.
 
 ## Sponsorship
 
-Do you want to sponsor?
+Do you want to sponsor? [mijailr](https://github.com/sponsors/mijailr)
 
